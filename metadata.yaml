@@ -1,10 +1,16 @@
 _repo: Battle-Honours-of-the-British-Army-From-Tangier-1662-to-the-Commencement-of-the-Reign-of-King__49654
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49654-h/images/cover.jpg
 creator:
   author:
     agent_name: Norman, C. B.
     gutenberg_agent_id: '45471'
     url: http://www.gutenberg.org/2009/agents/45471
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49654#Battle-Honours-of-the-British-Army-From-Tangier-1662-to-the-Commencement-of-the-Reign-of-King_
 gutenberg_issued: '2015-08-08'
 gutenberg_type: Text
 identifiers:
